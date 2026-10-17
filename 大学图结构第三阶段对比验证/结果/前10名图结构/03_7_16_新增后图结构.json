@@ -1,0 +1,483 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "皮尔斯实验楼",
+      "kind": "building",
+      "x": 80,
+      "y": 162,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "2",
+      "name": "西蒙斯楼",
+      "kind": "building",
+      "x": 157.4636688232422,
+      "y": 162.34300231933594,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "3",
+      "name": "麦克劳林3号楼",
+      "kind": "building",
+      "x": 97,
+      "y": 132,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "4",
+      "name": "麦克劳林4号楼",
+      "kind": "building",
+      "x": 141,
+      "y": 132,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "5",
+      "name": "普拉特楼",
+      "kind": "building",
+      "x": 80,
+      "y": 131,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "6",
+      "name": "伊士曼实验楼",
+      "kind": "building",
+      "x": 156,
+      "y": 136,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "7",
+      "name": "罗杰斯楼",
+      "kind": "building",
+      "x": 80,
+      "y": 109,
+      "labelDx": -5,
+      "labelDy": 5,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "8",
+      "name": "8号楼",
+      "kind": "building",
+      "x": 156,
+      "y": 110,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "9",
+      "name": "李氏楼",
+      "kind": "building",
+      "x": 79.86804962158203,
+      "y": 88.22930908203125,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "10",
+      "name": "麦克劳林楼／大穹顶",
+      "kind": "building",
+      "x": 118,
+      "y": 108,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "11",
+      "name": "霍姆伯格楼",
+      "kind": "building",
+      "x": 97,
+      "y": 107,
+      "labelDx": -5,
+      "labelDy": -3,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "13",
+      "name": "范内瓦·布什楼",
+      "kind": "building",
+      "x": 107,
+      "y": 94,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "14",
+      "name": "海登纪念图书馆",
+      "kind": "building",
+      "x": 183.2371063232422,
+      "y": 161.89080810546875,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "16",
+      "name": "多兰斯楼",
+      "kind": "building",
+      "x": 168,
+      "y": 99,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "17",
+      "name": "莱特兄弟风洞",
+      "kind": "building",
+      "x": 87,
+      "y": 75,
+      "labelDx": 5,
+      "labelDy": 3,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "18",
+      "name": "德雷福斯楼",
+      "kind": "building",
+      "x": 182,
+      "y": 123,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "20",
+      "name": "辐射实验室旧20号楼",
+      "kind": "building",
+      "x": 186,
+      "y": 44,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "24",
+      "name": "24号楼",
+      "kind": "building",
+      "x": 133,
+      "y": 76,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "26",
+      "name": "康普顿实验楼",
+      "kind": "building",
+      "x": 158,
+      "y": 77,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "31",
+      "name": "斯隆实验楼",
+      "kind": "building",
+      "x": 103,
+      "y": 73,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "33",
+      "name": "古根海姆实验楼",
+      "kind": "building",
+      "x": 80,
+      "y": 74,
+      "labelDx": -6,
+      "labelDy": 3,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "34",
+      "name": "EG&G教育中心",
+      "kind": "building",
+      "x": 144,
+      "y": 60,
+      "labelDx": 2,
+      "labelDy": 7,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "35",
+      "name": "斯隆35号实验楼",
+      "kind": "building",
+      "x": 75,
+      "y": 61,
+      "labelDx": 0,
+      "labelDy": -5,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "36",
+      "name": "费尔柴尔德36号楼",
+      "kind": "building",
+      "x": 155,
+      "y": 52,
+      "labelDx": 0,
+      "labelDy": -5,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "37",
+      "name": "麦克奈尔楼",
+      "kind": "building",
+      "x": 103,
+      "y": 60,
+      "labelDx": 0,
+      "labelDy": -5,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "38",
+      "name": "费尔柴尔德38号楼",
+      "kind": "building",
+      "x": 132,
+      "y": 57,
+      "labelDx": 0,
+      "labelDy": -5,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "39",
+      "name": "布朗楼",
+      "kind": "building",
+      "x": 119,
+      "y": 60,
+      "labelDx": 0,
+      "labelDy": 7,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "56",
+      "name": "惠特克楼",
+      "kind": "building",
+      "x": 191,
+      "y": 99,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "66",
+      "name": "朗道楼",
+      "kind": "building",
+      "x": 216,
+      "y": 101,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "68",
+      "name": "科赫生物楼",
+      "kind": "building",
+      "x": 237,
+      "y": 82,
+      "labelDx": 0,
+      "labelDy": 6,
+      "positionNote": "按带楼号总平面识别，对照本阶段建筑轮廓定位。",
+      "uncertainPosition": false
+    },
+    {
+      "id": "NEW12",
+      "name": "新增节点（12号楼学科）",
+      "kind": "building",
+      "x": 124.0,
+      "y": 104.0
+    }
+  ],
+  "edges": [
+    {
+      "a": "1",
+      "b": "3"
+    },
+    {
+      "a": "1",
+      "b": "5"
+    },
+    {
+      "a": "2",
+      "b": "4"
+    },
+    {
+      "a": "2",
+      "b": "6"
+    },
+    {
+      "a": "3",
+      "b": "7"
+    },
+    {
+      "a": "4",
+      "b": "10"
+    },
+    {
+      "a": "4",
+      "b": "8"
+    },
+    {
+      "a": "6",
+      "b": "8"
+    },
+    {
+      "a": "7",
+      "b": "5"
+    },
+    {
+      "a": "7",
+      "b": "9"
+    },
+    {
+      "a": "8",
+      "b": "16"
+    },
+    {
+      "a": "16",
+      "b": "26"
+    },
+    {
+      "a": "16",
+      "b": "56"
+    },
+    {
+      "a": "56",
+      "b": "66"
+    },
+    {
+      "a": "33",
+      "b": "35"
+    },
+    {
+      "a": "33",
+      "b": "17"
+    },
+    {
+      "a": "35",
+      "b": "37"
+    },
+    {
+      "a": "37",
+      "b": "39"
+    },
+    {
+      "a": "39",
+      "b": "38"
+    },
+    {
+      "a": "38",
+      "b": "34"
+    },
+    {
+      "a": "34",
+      "b": "36"
+    },
+    {
+      "a": "36",
+      "b": "26"
+    },
+    {
+      "a": "66",
+      "b": "68"
+    },
+    {
+      "a": "14",
+      "b": "2"
+    },
+    {
+      "a": "3",
+      "b": "11"
+    },
+    {
+      "a": "10",
+      "b": "3"
+    },
+    {
+      "a": "33",
+      "b": "9"
+    },
+    {
+      "a": "13",
+      "b": "9"
+    },
+    {
+      "a": "31",
+      "b": "37"
+    },
+    {
+      "a": "34",
+      "b": "24"
+    },
+    {
+      "a": "36",
+      "b": "20"
+    },
+    {
+      "a": "56",
+      "b": "18"
+    },
+    {
+      "a": "13",
+      "b": "10"
+    },
+    {
+      "a": "7",
+      "b": "NEW12"
+    },
+    {
+      "a": "NEW12",
+      "b": "16"
+    }
+  ]
+}

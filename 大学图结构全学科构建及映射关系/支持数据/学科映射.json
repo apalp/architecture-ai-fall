@@ -1,0 +1,1669 @@
+{
+  "stage": 4,
+  "measure": "Rao–Stirling",
+  "formula": "D = Σ_i Σ_j p_i p_j d_ij",
+  "distance_matrix": "研究方法/全领域学科距离矩阵_149x149_v0.2.csv",
+  "source_xlsx": "D:\\用户\\Desktop\\大学资料\\学科研究\\mit学科分布参考.xlsx",
+  "source_excel_building_rows": 55,
+  "mapped_mit_discipline_labels": {
+    "人类学": [
+      "0314"
+    ],
+    "健康科学与技术": [
+      "0912",
+      "0511",
+      "0714"
+    ],
+    "全球研究与语言": [
+      "0314",
+      "0232"
+    ],
+    "化学": [
+      "0531"
+    ],
+    "化学工程": [
+      "0711"
+    ],
+    "历史学": [
+      "0222"
+    ],
+    "土木与环境工程": [
+      "0732",
+      "0521"
+    ],
+    "地球、大气与行星科学": [
+      "0532"
+    ],
+    "城市研究与规划": [
+      "0731",
+      "0314"
+    ],
+    "媒体艺术与科学": [
+      "0211",
+      "0613"
+    ],
+    "建筑学": [
+      "0731"
+    ],
+    "政治学": [
+      "0312"
+    ],
+    "数学": [
+      "0541"
+    ],
+    "文学": [
+      "0232"
+    ],
+    "机械工程": [
+      "0715"
+    ],
+    "材料科学与工程": [
+      "0539",
+      "0722"
+    ],
+    "核科学与工程": [
+      "0713",
+      "0533"
+    ],
+    "比较医学": [
+      "0841",
+      "0511"
+    ],
+    "比较媒体研究与写作": [
+      "0211",
+      "0232"
+    ],
+    "物理学": [
+      "0533"
+    ],
+    "生物学": [
+      "0511"
+    ],
+    "生物工程": [
+      "0512",
+      "0711"
+    ],
+    "电气工程与计算机科学": [
+      "0613",
+      "0714"
+    ],
+    "科学、技术与社会": [
+      "0314",
+      "0312",
+      "0223"
+    ],
+    "管理学": [
+      "0413"
+    ],
+    "系统设计与管理": [
+      "0413",
+      "0613"
+    ],
+    "经济学": [
+      "0311"
+    ],
+    "脑与认知科学": [
+      "0313",
+      "0511"
+    ],
+    "航空航天": [
+      "0716"
+    ],
+    "艺术、文化与技术": [
+      "0213",
+      "0211"
+    ],
+    "语言学与哲学": [
+      "0232",
+      "0223"
+    ],
+    "音乐与戏剧艺术": [
+      "0215"
+    ]
+  },
+  "score_scale": [
+    0,
+    1
+  ],
+  "nodes": [
+    {
+      "node": "1",
+      "display": "1",
+      "kind": "building",
+      "rao_stirling": 0.669444,
+      "score_0_1": 0.6694444444444444,
+      "n_fields": 5,
+      "fields": [
+        {
+          "code": "0521",
+          "name": "环境科学",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0732",
+          "name": "建筑与土木工程",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "土木与环境工程",
+        "机械工程",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 82,
+      "y": 163,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "2",
+      "display": "2",
+      "kind": "building",
+      "rao_stirling": 0.4,
+      "score_0_1": 0.4,
+      "n_fields": 2,
+      "fields": [
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.5
+        },
+        {
+          "code": "0541",
+          "name": "数学",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "化学",
+        "数学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 159,
+      "y": 163,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "3",
+      "display": "3",
+      "kind": "building",
+      "rao_stirling": 0.651563,
+      "score_0_1": 0.6515625,
+      "n_fields": 5,
+      "fields": [
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.125
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.125
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.25
+        },
+        {
+          "code": "0731",
+          "name": "建筑与城市规划",
+          "share": 0.375
+        }
+      ],
+      "mit_labels": [
+        "城市研究与规划",
+        "建筑学",
+        "机械工程",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 99,
+      "y": 133,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "4",
+      "display": "4",
+      "kind": "building",
+      "rao_stirling": 0.518,
+      "score_0_1": 0.518,
+      "n_fields": 6,
+      "fields": [
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.2
+        },
+        {
+          "code": "0532",
+          "name": "地球科学",
+          "share": 0.2
+        },
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.3
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.1
+        },
+        {
+          "code": "0713",
+          "name": "电力与能源",
+          "share": 0.1
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.1
+        }
+      ],
+      "mit_labels": [
+        "化学",
+        "地球、大气与行星科学",
+        "材料科学与工程",
+        "核科学与工程",
+        "物理学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 143,
+      "y": 133,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "5",
+      "display": "5",
+      "kind": "building",
+      "rao_stirling": 0.566667,
+      "score_0_1": 0.5666666666666667,
+      "n_fields": 4,
+      "fields": [
+        {
+          "code": "0521",
+          "name": "环境科学",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0731",
+          "name": "建筑与城市规划",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0732",
+          "name": "建筑与土木工程",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "土木与环境工程",
+        "建筑学",
+        "机械工程"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 82,
+      "y": 132,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "6",
+      "display": "6",
+      "kind": "building",
+      "rao_stirling": 0.629687,
+      "score_0_1": 0.6296875,
+      "n_fields": 6,
+      "fields": [
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.25
+        },
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.25
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.125
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.125
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.125
+        }
+      ],
+      "mit_labels": [
+        "化学",
+        "材料科学与工程",
+        "物理学",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 159,
+      "y": 135,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "7",
+      "display": "7",
+      "kind": "building",
+      "rao_stirling": 0.625,
+      "score_0_1": 0.625,
+      "n_fields": 5,
+      "fields": [
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.125
+        },
+        {
+          "code": "0521",
+          "name": "环境科学",
+          "share": 0.125
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.25
+        },
+        {
+          "code": "0731",
+          "name": "建筑与城市规划",
+          "share": 0.375
+        },
+        {
+          "code": "0732",
+          "name": "建筑与土木工程",
+          "share": 0.125
+        }
+      ],
+      "mit_labels": [
+        "土木与环境工程",
+        "城市研究与规划",
+        "建筑学",
+        "机械工程"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 82,
+      "y": 111,
+      "labelDx": -5,
+      "labelDy": 5
+    },
+    {
+      "node": "8",
+      "display": "8",
+      "kind": "building",
+      "rao_stirling": 0.4875,
+      "score_0_1": 0.4875,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.5
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.25
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.25
+        }
+      ],
+      "mit_labels": [
+        "材料科学与工程",
+        "物理学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 159,
+      "y": 112,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "9",
+      "display": "9",
+      "kind": "building",
+      "rao_stirling": 0.5,
+      "score_0_1": 0.5,
+      "n_fields": 2,
+      "fields": [
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.5
+        },
+        {
+          "code": "0731",
+          "name": "建筑与城市规划",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "城市研究与规划"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 82,
+      "y": 90,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "10",
+      "display": "10",
+      "kind": "building",
+      "rao_stirling": 0.737,
+      "score_0_1": 0.7370000000000001,
+      "n_fields": 6,
+      "fields": [
+        {
+          "code": "0215",
+          "name": "音乐与表演艺术",
+          "share": 0.2
+        },
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.1
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.1
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.1
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.2
+        },
+        {
+          "code": "0731",
+          "name": "建筑与城市规划",
+          "share": 0.3
+        }
+      ],
+      "mit_labels": [
+        "城市研究与规划",
+        "建筑学",
+        "机械工程",
+        "电气工程与计算机科学",
+        "音乐与戏剧艺术"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 120.46125793457031,
+      "y": 109.61066436767578,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "11",
+      "display": "11",
+      "kind": "building",
+      "rao_stirling": null,
+      "score_0_1": null,
+      "n_fields": 0,
+      "fields": [],
+      "mit_labels": [],
+      "mapping_basis": "行政与学生服务；未识别可计入学科，不等于建筑没有功能",
+      "unmapped_labels": [],
+      "x": 99,
+      "y": 108,
+      "labelDx": -5,
+      "labelDy": -3
+    },
+    {
+      "node": "12-old",
+      "display": "12",
+      "kind": "building",
+      "rao_stirling": 0.746875,
+      "score_0_1": 0.746875,
+      "n_fields": 8,
+      "fields": [
+        {
+          "code": "0511",
+          "name": "生物学",
+          "share": 0.125
+        },
+        {
+          "code": "0512",
+          "name": "生物化学",
+          "share": 0.125
+        },
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.125
+        },
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.125
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.125
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.125
+        },
+        {
+          "code": "0719",
+          "name": "其他：工程、制造与建造 0719",
+          "share": 0.125
+        }
+      ],
+      "mit_labels": [],
+      "mapping_basis": "MIT.nano独立细分映射（纳入useForDistance记录，领域代码去重）",
+      "unmapped_labels": [],
+      "x": 144,
+      "y": 97,
+      "labelDx": 0,
+      "labelDy": 7
+    },
+    {
+      "node": "13",
+      "display": "13",
+      "kind": "building",
+      "rao_stirling": 0.663889,
+      "score_0_1": 0.6638888888888889,
+      "n_fields": 5,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "材料科学与工程",
+        "物理学",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 110,
+      "y": 95,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "14",
+      "display": "14",
+      "kind": "building",
+      "rao_stirling": 0.455556,
+      "score_0_1": 0.45555555555555555,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0211",
+          "name": "视听技术与媒体制作",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0232",
+          "name": "文学与语言学",
+          "share": 0.6666666666666666
+        },
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "全球研究与语言",
+        "文学",
+        "比较媒体研究与写作"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 175,
+      "y": 161,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "16",
+      "display": "16",
+      "kind": "building",
+      "rao_stirling": 0.794,
+      "score_0_1": 0.7940000000000002,
+      "n_fields": 8,
+      "fields": [
+        {
+          "code": "0232",
+          "name": "文学与语言学",
+          "share": 0.1
+        },
+        {
+          "code": "0314",
+          "name": "社会学与文化研究",
+          "share": 0.1
+        },
+        {
+          "code": "0511",
+          "name": "生物学",
+          "share": 0.1
+        },
+        {
+          "code": "0512",
+          "name": "生物化学",
+          "share": 0.1
+        },
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.2
+        },
+        {
+          "code": "0711",
+          "name": "化学工程与工艺",
+          "share": 0.1
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.2
+        },
+        {
+          "code": "0841",
+          "name": "兽医",
+          "share": 0.1
+        }
+      ],
+      "mit_labels": [
+        "全球研究与语言",
+        "化学",
+        "机械工程",
+        "比较医学",
+        "生物工程"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 170,
+      "y": 100,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "17",
+      "display": "17",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [
+        "航空航天"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 88,
+      "y": 75,
+      "labelDx": 5,
+      "labelDy": 3
+    },
+    {
+      "node": "18",
+      "display": "18",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [
+        "化学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 184,
+      "y": 123,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "24",
+      "display": "24",
+      "kind": "building",
+      "rao_stirling": 0.538889,
+      "score_0_1": 0.5388888888888889,
+      "n_fields": 4,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.5
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0713",
+          "name": "电力与能源",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "核科学与工程",
+        "物理学",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 135,
+      "y": 77,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "26",
+      "display": "26",
+      "kind": "building",
+      "rao_stirling": 0.609375,
+      "score_0_1": 0.609375,
+      "n_fields": 5,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.375
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0713",
+          "name": "电力与能源",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.125
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.25
+        }
+      ],
+      "mit_labels": [
+        "机械工程",
+        "核科学与工程",
+        "物理学",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 160,
+      "y": 78,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "31",
+      "display": "31",
+      "kind": "building",
+      "rao_stirling": 0.55,
+      "score_0_1": 0.5499999999999999,
+      "n_fields": 4,
+      "fields": [
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.16666666666666666
+        }
+      ],
+      "mit_labels": [
+        "机械工程",
+        "材料科学与工程",
+        "航空航天"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 105,
+      "y": 74,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "32",
+      "display": "32",
+      "kind": "building",
+      "rao_stirling": 0.83099,
+      "score_0_1": 0.8309895833333333,
+      "n_fields": 11,
+      "fields": [
+        {
+          "code": "0211",
+          "name": "视听技术与媒体制作",
+          "share": 0.0625
+        },
+        {
+          "code": "0223",
+          "name": "哲学与伦理",
+          "share": 0.0625
+        },
+        {
+          "code": "0232",
+          "name": "文学与语言学",
+          "share": 0.0625
+        },
+        {
+          "code": "0313",
+          "name": "心理学",
+          "share": 0.0625
+        },
+        {
+          "code": "0413",
+          "name": "管理与行政",
+          "share": 0.125
+        },
+        {
+          "code": "0511",
+          "name": "生物学",
+          "share": 0.10416666666666666
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.10416666666666666
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.125
+        },
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 0.125
+        },
+        {
+          "code": "0912",
+          "name": "医学",
+          "share": 0.041666666666666664
+        }
+      ],
+      "mit_labels": [
+        "健康科学与技术",
+        "媒体艺术与科学",
+        "机械工程",
+        "电气工程与计算机科学",
+        "管理学",
+        "脑与认知科学",
+        "航空航天",
+        "语言学与哲学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 187,
+      "y": 62,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "33",
+      "display": "33",
+      "kind": "building",
+      "rao_stirling": 0.625,
+      "score_0_1": 0.625,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0413",
+          "name": "管理与行政",
+          "share": 0.25
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.25
+        },
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "系统设计与管理",
+        "航空航天"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 81,
+      "y": 74,
+      "labelDx": -6,
+      "labelDy": 3
+    },
+    {
+      "node": "34",
+      "display": "34",
+      "kind": "building",
+      "rao_stirling": 0.375,
+      "score_0_1": 0.375,
+      "n_fields": 2,
+      "fields": [
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.5
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [],
+      "mapping_basis": "官方EECS历史说明明确列出34号楼；不能把相邻楼学科全部继承过来",
+      "unmapped_labels": [],
+      "x": 145,
+      "y": 61,
+      "labelDx": 2,
+      "labelDy": 7
+    },
+    {
+      "node": "35",
+      "display": "35",
+      "kind": "building",
+      "rao_stirling": 0.225,
+      "score_0_1": 0.225,
+      "n_fields": 2,
+      "fields": [
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.5
+        },
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "机械工程",
+        "航空航天"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 78,
+      "y": 61,
+      "labelDx": 0,
+      "labelDy": -5
+    },
+    {
+      "node": "36",
+      "display": "36",
+      "kind": "building",
+      "rao_stirling": 0.629687,
+      "score_0_1": 0.6296875,
+      "n_fields": 6,
+      "fields": [
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.25
+        },
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.25
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.125
+        },
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.125
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.125
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.125
+        }
+      ],
+      "mit_labels": [
+        "化学",
+        "材料科学与工程",
+        "物理学",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 158,
+      "y": 54,
+      "labelDx": 0,
+      "labelDy": -5
+    },
+    {
+      "node": "37",
+      "display": "37",
+      "kind": "building",
+      "rao_stirling": 0.5,
+      "score_0_1": 0.5,
+      "n_fields": 2,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 0.5
+        },
+        {
+          "code": "0716",
+          "name": "车辆、船舶与航空器",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "物理学",
+        "航空航天"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 104,
+      "y": 60,
+      "labelDx": 0,
+      "labelDy": -5
+    },
+    {
+      "node": "38",
+      "display": "38",
+      "kind": "building",
+      "rao_stirling": 0.45625,
+      "score_0_1": 0.45625,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.25
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.25
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "机械工程",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 134,
+      "y": 58,
+      "labelDx": 0,
+      "labelDy": -5
+    },
+    {
+      "node": "39",
+      "display": "39",
+      "kind": "building",
+      "rao_stirling": 0.45625,
+      "score_0_1": 0.45625,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.25
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.25
+        },
+        {
+          "code": "0715",
+          "name": "机械与金属加工",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "机械工程",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 121,
+      "y": 61,
+      "labelDx": 0,
+      "labelDy": 7
+    },
+    {
+      "node": "54",
+      "display": "54",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "0532",
+          "name": "地球科学",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [
+        "地球、大气与行星科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 200,
+      "y": 118,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "56",
+      "display": "56",
+      "kind": "building",
+      "rao_stirling": 0.5,
+      "score_0_1": 0.5,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0512",
+          "name": "生物化学",
+          "share": 0.16666666666666666
+        },
+        {
+          "code": "0531",
+          "name": "化学",
+          "share": 0.3333333333333333
+        },
+        {
+          "code": "0711",
+          "name": "化学工程与工艺",
+          "share": 0.5
+        }
+      ],
+      "mit_labels": [
+        "化学",
+        "化学工程",
+        "生物工程"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 192,
+      "y": 100,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "57",
+      "display": "57",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "1014",
+          "name": "体育",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [],
+      "mapping_basis": "Alumni Pool；有明确体育课程地点证据，按全学科体系计体育1类",
+      "unmapped_labels": [],
+      "x": 192,
+      "y": 82,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "66",
+      "display": "66",
+      "kind": "building",
+      "rao_stirling": 0.45625,
+      "score_0_1": 0.45625,
+      "n_fields": 3,
+      "fields": [
+        {
+          "code": "0613",
+          "name": "软件与应用开发分析",
+          "share": 0.25
+        },
+        {
+          "code": "0711",
+          "name": "化学工程与工艺",
+          "share": 0.5
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.25
+        }
+      ],
+      "mit_labels": [
+        "化学工程",
+        "电气工程与计算机科学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 218,
+      "y": 101,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "68",
+      "display": "68",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "0511",
+          "name": "生物学",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [
+        "生物学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 239,
+      "y": 82,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "76",
+      "display": "76",
+      "kind": "building",
+      "rao_stirling": 0.765104,
+      "score_0_1": 0.7651041666666666,
+      "n_fields": 7,
+      "fields": [
+        {
+          "code": "0511",
+          "name": "生物学",
+          "share": 0.20833333333333331
+        },
+        {
+          "code": "0539",
+          "name": "其他：自然科学、数学与统计 0539",
+          "share": 0.125
+        },
+        {
+          "code": "0711",
+          "name": "化学工程与工艺",
+          "share": 0.25
+        },
+        {
+          "code": "0714",
+          "name": "电子与自动化",
+          "share": 0.08333333333333333
+        },
+        {
+          "code": "0722",
+          "name": "材料制造",
+          "share": 0.125
+        },
+        {
+          "code": "0841",
+          "name": "兽医",
+          "share": 0.125
+        },
+        {
+          "code": "0912",
+          "name": "医学",
+          "share": 0.08333333333333333
+        }
+      ],
+      "mit_labels": [
+        "健康科学与技术",
+        "化学工程",
+        "材料科学与工程",
+        "比较医学"
+      ],
+      "mapping_basis": "Excel楼栋标签→审核后的MIT学科名→ISCED-F详细领域映射",
+      "unmapped_labels": [],
+      "x": 234,
+      "y": 51,
+      "labelDx": 0,
+      "labelDy": 6
+    },
+    {
+      "node": "6C",
+      "display": "6C",
+      "kind": "building",
+      "rao_stirling": 0.0,
+      "score_0_1": 0.0,
+      "n_fields": 1,
+      "fields": [
+        {
+          "code": "0533",
+          "name": "物理学",
+          "share": 1.0
+        }
+      ],
+      "mit_labels": [],
+      "mapping_basis": "Green Center for Physics；PDSI整体含材料与光谱不等于6C每项均已证实驻楼",
+      "unmapped_labels": [],
+      "x": 151,
+      "y": 124,
+      "labelDx": 0,
+      "labelDy": 6
+    }
+  ],
+  "edges": [
+    {
+      "a": "1",
+      "b": "3"
+    },
+    {
+      "a": "1",
+      "b": "5"
+    },
+    {
+      "a": "2",
+      "b": "4"
+    },
+    {
+      "a": "2",
+      "b": "6"
+    },
+    {
+      "a": "3",
+      "b": "7"
+    },
+    {
+      "a": "3",
+      "b": "10"
+    },
+    {
+      "a": "4",
+      "b": "10"
+    },
+    {
+      "a": "4",
+      "b": "8"
+    },
+    {
+      "a": "6",
+      "b": "8"
+    },
+    {
+      "a": "7",
+      "b": "5"
+    },
+    {
+      "a": "7",
+      "b": "9"
+    },
+    {
+      "a": "8",
+      "b": "16"
+    },
+    {
+      "a": "16",
+      "b": "26"
+    },
+    {
+      "a": "16",
+      "b": "56"
+    },
+    {
+      "a": "56",
+      "b": "66"
+    },
+    {
+      "a": "33",
+      "b": "35"
+    },
+    {
+      "a": "33",
+      "b": "17"
+    },
+    {
+      "a": "35",
+      "b": "37"
+    },
+    {
+      "a": "37",
+      "b": "39"
+    },
+    {
+      "a": "39",
+      "b": "38"
+    },
+    {
+      "a": "38",
+      "b": "34"
+    },
+    {
+      "a": "34",
+      "b": "36"
+    },
+    {
+      "a": "36",
+      "b": "26"
+    },
+    {
+      "a": "36",
+      "b": "32"
+    },
+    {
+      "a": "6",
+      "b": "6C"
+    },
+    {
+      "a": "4",
+      "b": "6C"
+    },
+    {
+      "a": "8",
+      "b": "6C"
+    },
+    {
+      "a": "66",
+      "b": "68"
+    },
+    {
+      "a": "26",
+      "b": "32"
+    },
+    {
+      "a": "14",
+      "b": "2"
+    },
+    {
+      "a": "11",
+      "b": "3"
+    },
+    {
+      "a": "56",
+      "b": "18"
+    },
+    {
+      "a": "13",
+      "b": "10"
+    },
+    {
+      "a": "13",
+      "b": "12-old"
+    },
+    {
+      "a": "12-old",
+      "b": "16"
+    },
+    {
+      "a": "9",
+      "b": "13"
+    },
+    {
+      "a": "33",
+      "b": "9"
+    },
+    {
+      "a": "37",
+      "b": "31"
+    },
+    {
+      "a": "34",
+      "b": "24"
+    },
+    {
+      "a": "26",
+      "b": "12-old"
+    },
+    {
+      "a": "32",
+      "b": "57"
+    }
+  ]
+}
