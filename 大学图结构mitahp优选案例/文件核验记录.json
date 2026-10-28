@@ -1,0 +1,75 @@
+{
+  "原始下载文件完整性通过": 14,
+  "PDF核验": [
+    {
+      "文件": "10/10_105房间平面_2025.pdf",
+      "页数": 1,
+      "元数据": {
+        "/CreationDate": "D:20150918165917-04'00'",
+        "/Creator": "Adobe Illustrator CS5.1",
+        "/ModDate": "D:20250211143101-05'00'",
+        "/Producer": "Adobe PDF library 9.90",
+        "/Title": "Bush Room Floor Plan"
+      },
+      "可提取文本页数": 1
+    },
+    {
+      "文件": "12/12.pdf",
+      "页数": 16,
+      "元数据": {
+        "/CreationDate": "D:20241121133444-05'00'",
+        "/Creator": "Adobe InDesign 20.0 (Macintosh)",
+        "/ModDate": "D:20241121143602-05'00'",
+        "/Producer": "Adobe PDF Library 17.0",
+        "/Trapped": "/False"
+      },
+      "可提取文本页数": 16
+    },
+    {
+      "文件": "12/12_建筑性能案例.pdf",
+      "页数": 14,
+      "元数据": {
+        "/CreationDate": "D:20220119200722+05'30'",
+        "/Creator": "Adobe InDesign CC (Windows)",
+        "/ModDate": "D:20220311162832-05'00'",
+        "/Producer": "Adobe PDF Library 11.0",
+        "/Trapped": "/False"
+      },
+      "可提取文本页数": 13
+    },
+    {
+      "文件": "公共资料/12_13_16_26_楼层连接示意.pdf",
+      "页数": 2,
+      "元数据": {
+        "/Author": "sdiersch",
+        "/CreationDate": "D:20231113165846-05'00'",
+        "/Creator": "Adobe Acrobat Pro (64-bit) 23.6.20360",
+        "/ModDate": "D:20231113165846-05'00'",
+        "/Producer": "Acrobat Distiller 23.0 (Windows)",
+        "/Title": "mit-accessibility-color.pdf"
+      },
+      "可提取文本页数": 2
+    },
+    {
+      "文件": "13/历史补充/13_10_首层平面来源_2004.pdf",
+      "页数": 9,
+      "元数据": {
+        "/ModDate": "D:20050221154223+05'30'",
+        "/CreationDate": "D:20050221154124+05'30'",
+        "/Title": "Microsoft Word - MehtaFinal.doc",
+        "/Creator": "PScript5.dll Version 5.2",
+        "/Author": "cc_ahandi",
+        "/Producer": "Acrobat Distiller 6.0 (Windows)"
+      },
+      "可提取文本页数": 9
+    }
+  ],
+  "12号身份": "新MIT.nano；用户明确确认",
+  "未取得完整逐层平面": [
+    "12",
+    "13",
+    "16",
+    "26",
+    "10"
+  ]
+}

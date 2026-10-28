@@ -1,0 +1,158 @@
+[
+  {
+    "文件": "10/10_105房间平面_2025.pdf",
+    "来源": "https://sites.mit.edu/institute-events/files/2025/03/Bush-Room-Floor-Plan-Default-Set-Up-2025.pdf",
+    "资料年份": "2025（文件名及发布路径）",
+    "说明": "10-105单个活动房间家具布置，非13号楼，也非10号楼整层平面",
+    "下载日期": "2026-10-22",
+    "字节数": 3625709,
+    "SHA256": "5f8a52effecb12561ffb7f19aa9ae5102032e68959da44ad6e871d76cec377f0",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12.pdf",
+    "来源": "https://mitnano.mit.edu/sites/default/files/documents/MITnano_Brochure2024_Final%20Small.pdf",
+    "资料年份": "2024",
+    "说明": "MIT.nano官方手册；不是逐层建筑施工图",
+    "下载日期": "2026-10-22",
+    "字节数": 3684812,
+    "SHA256": "f5b341dbc7c7dde925fefcf2e2ab6a6a00d8586a63400ffe5cc2c6ab12f3843d",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_三层局部平面_2021.png",
+    "来源": "https://mitnano.mit.edu/sites/default/files/inline-images/NanoMat%20Solar%20Frontiers%20construction%20map.png",
+    "资料年份": "2021-03-25（发布页）",
+    "说明": "新MIT.nano三层NanoMat施工范围局部平面；历史局部图，非现状完整平面",
+    "下载日期": "2026-10-22",
+    "字节数": 356218,
+    "SHA256": "2432e5d203d764eb0f9f7211416b5c79b6e23358a770ab3f1e7c35e55cc911b4",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_官方项目.html",
+    "来源": "https://capitalprojects.mit.edu/node/32",
+    "资料年份": "未标明更新日期",
+    "说明": "MIT官方项目页",
+    "下载日期": "2026-10-22",
+    "字节数": 329,
+    "SHA256": "8b94024d9018a27ea16993cf0617c69fb7f798d17445710acf98a4aa4788f63b",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_室外导览.png",
+    "来源": "https://mitnano.mit.edu/sites/default/files/2022-11/2022-140%20MIT.nano%20exterior%20points%20of%20interest.png",
+    "资料年份": "2022（文件路径）",
+    "说明": "新MIT.nano周边公共空间导览，不是楼内完整平面",
+    "下载日期": "2026-10-22",
+    "字节数": 1884777,
+    "SHA256": "79e54d2975ab851892adccb8652e2c9c591cef82c0c3dbf60be7061a11bf433a",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_建筑性能案例.pdf",
+    "来源": "https://www.usgbc.org/sites/default/files/2022-03/MIT%20Case%20Study.pdf",
+    "资料年份": "2022（文件路径；以正文为准）",
+    "说明": "USGBC项目案例",
+    "下载日期": "2026-10-22",
+    "字节数": 23738108,
+    "SHA256": "d630ff41a3be272c76f04aa56a0e8b85d1c3eddc90704ff5d21fffa67e144023",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_设施楼层说明.html",
+    "来源": "https://nanousers.mit.edu/index.php/fabnano",
+    "资料年份": "未标明更新日期",
+    "说明": "Fab.nano官方楼层功能说明，非建筑平面",
+    "下载日期": "2026-10-22",
+    "字节数": 27970,
+    "SHA256": "8e80cbd9b0496dde5f8031387472cbb1a0f34fe0eb47be75a9eba84b1470b7d6",
+    "状态": "已下载"
+  },
+  {
+    "文件": "12/12_设计方项目.html",
+    "来源": "https://hga.com/projects/mit-nano/",
+    "资料年份": "未标明更新日期",
+    "说明": "HGA设计方项目页",
+    "状态": "下载失败",
+    "错误": "HTTP Error 403: Forbidden"
+  },
+  {
+    "文件": "13/13_官方建筑介绍.html",
+    "来源": "https://listart.mit.edu/art-artists/vannevar-bush-building-1963",
+    "资料年份": "未标明更新日期；1963是建筑年份",
+    "说明": "MIT官方建筑介绍，非完整平面",
+    "下载日期": "2026-10-22",
+    "字节数": 51945,
+    "SHA256": "9a8c7210e6c5a7082998928224b9f6db9f8b1227ad1b45a6a70168eef6bb3c10",
+    "状态": "已下载"
+  },
+  {
+    "文件": "13/历史补充/13_10_首层平面来源_2004.pdf",
+    "来源": "https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c52086015d6dc0e6261b54729328b1fa_mehta_final.pdf",
+    "资料年份": "2004-12-01",
+    "说明": "仅在未取得新版完整平面时留作历史线索；正文页码4，即PDF第5页，含13/10首层平面，不能当现状",
+    "下载日期": "2026-10-22",
+    "字节数": 521029,
+    "SHA256": "b6a5a9a36f4c69476ab81008e1966c3e3410eaa743f6df4c7a9237afe079e69f",
+    "状态": "已下载"
+  },
+  {
+    "文件": "16/16_官方建筑信息.html",
+    "来源": "https://whereis.mit.edu/?go=16",
+    "资料年份": "动态页面，下载日期2026-10-22",
+    "说明": "MIT校园地图建筑入口，可能需要联网运行",
+    "下载日期": "2026-10-22",
+    "字节数": 7831,
+    "SHA256": "901e17181efed7a2b0c9e57466d72586f6c93f576357aa32ac8c0ff48ce40e07",
+    "状态": "已下载"
+  },
+  {
+    "文件": "16/16_跨学科学习空间.html",
+    "来源": "https://terrascope.mit.edu/academics/",
+    "资料年份": "未标明更新日期",
+    "说明": "Terrascope官方介绍，共享学习活动及16-177地址；不能外推整楼布局",
+    "下载日期": "2026-10-22",
+    "字节数": 83501,
+    "SHA256": "d3110f8ca35eeff243aef3e31e451d1b3ebe7439bc0f082a49f459105e9c4be2",
+    "状态": "已下载"
+  },
+  {
+    "文件": "26/26_官方建筑信息.html",
+    "来源": "https://whereis.mit.edu/?go=26",
+    "资料年份": "动态页面，下载日期2026-10-22",
+    "说明": "MIT校园地图建筑入口，可能需要联网运行",
+    "下载日期": "2026-10-22",
+    "字节数": 7831,
+    "SHA256": "901e17181efed7a2b0c9e57466d72586f6c93f576357aa32ac8c0ff48ce40e07",
+    "状态": "已下载"
+  },
+  {
+    "文件": "26/26_研究机构介绍.html",
+    "来源": "https://www.rle.mit.edu/about/",
+    "资料年份": "未标明更新日期",
+    "说明": "电子学研究实验室官方介绍，明确26号楼为其核心场所之一",
+    "状态": "下载失败",
+    "错误": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "文件": "公共资料/12_13_16_26_图纸访问说明.html",
+    "来源": "https://libguides.mit.edu/mitbuildings",
+    "资料年份": "2025-02-24（页面标示）",
+    "说明": "官方建筑资料指南；完整平面限MIT社区访问",
+    "下载日期": "2026-10-22",
+    "字节数": 94109,
+    "SHA256": "13e7d8eb406bb5de37e56b99fe6bff590e139f96bc121ef72a86f5eedd4ddd41",
+    "状态": "已下载"
+  },
+  {
+    "文件": "公共资料/12_13_16_26_楼层连接示意.pdf",
+    "来源": "https://web.mit.edu/Facilities/maps/mit-accessibility-bw.pdf",
+    "资料年份": "2023-11（PDF正文）",
+    "说明": "全校无障碍地图；第2页含地下与楼层连接，不是房间级平面",
+    "下载日期": "2026-10-22",
+    "字节数": 2061364,
+    "SHA256": "c06e8f2cb3fe068d77d1aaf2d1eb98ad752ece048d9baf9ef5e2f9b6acc92c30",
+    "状态": "已下载"
+  }
+]

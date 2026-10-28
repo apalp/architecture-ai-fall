@@ -1,0 +1,39 @@
+[
+  {
+    "command": [
+      "C:\\Users\\ASUS\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\原公式代码\\计算四指标.py",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\正式输出\\原脚本适配输入.json",
+      "--support",
+      "D:\\用户\\Desktop\\daxue\\大学图结构全学科构建及映射关系\\华南理工大学\\支持数据",
+      "--stage",
+      "4",
+      "--runs",
+      "20000",
+      "--seed",
+      "20261017",
+      "--beta",
+      "0.5",
+      "--kappa",
+      "2.0",
+      "--out",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\正式输出\\四指标"
+    ],
+    "returncode": 0,
+    "stdout": "完成：阶段4，15节点，8边；缺失映射：[]\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Users\\ASUS\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\原公式代码\\计算AHP评价.py",
+      "--input",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\正式输出\\四指标",
+      "--out",
+      "D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\正式输出\\AHP评价"
+    ],
+    "returncode": 0,
+    "stdout": "完成：15节点，15节点有效评分；输出：D:\\用户\\Desktop\\daxue\\大学图结构华南理工大学计算与预测\\指标计算\\正式输出\\AHP评价\nB05 0.7915368298524291\nB04 0.6766214138980652\nN2 0.6656714200831848\nB07 0.5482676341816073\nN3 0.3918341972221715\n",
+    "stderr": ""
+  }
+]

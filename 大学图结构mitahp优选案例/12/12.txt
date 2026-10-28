@@ -1,0 +1,669 @@
+--- PDF第1页 ---
+POWERING 
+INNOVATION 
+FROM THE  
+NANOSCALE UP
+LISA T. SU BUILDING
+Building 12 at MIT
+
+--- PDF第2页 ---
+STEP 
+INTO 
+THE 
+NANO 
+AGE
+ M IT.NANO IS THE INSTITUTE’S VESSEL TO EXPLORE  
+ T HIS NEW ERA AND DELIVER A BETTER FUTURE.  
+Over the past half century, humanity has developed 
+the breathtaking power to manipulate matter at 
+the level of individual atoms and molecules. Our 
+capacity to understand nature at the smallest of 
+scales, and to design materials just nanometers in 
+dimension, is revolutionizing how we shape our 
+world and launching a thrilling new age of discovery 
+and innovation.
+The 21st century is facing problems whose urgency 
+and complexity stretch around the globe. Incremental 
+change will not provide solutions soon enough or 
+at scale. Nanoscience and nanotechnology are our 
+best tools to produce the transformative change 
+humanity needs to confront challenges in health and 
+energy, or clean water and climate. To establish new 
+paradigms for computing and communications, or 
+manufacturing and materials. To transform existing 
+industries  —  a nd invent new ones. And with these 
+innovations as our foundation, to build a better world.
+2 · MIT.nano
+
+
+--- PDF第3页 ---
+MIT.NANO IS…
+The Institute’s central resource for nanoscale 
+discovery and innovation, set in the heart of 
+the campus in the Lisa T. Su Building.
+One of the largest, most advanced, and 
+most accessible university research facilities 
+of its kind in the United States. 
+214,000 square feet in total, with  
+more than 100,000 square feet of 
+high-performance laboratory space  
+and 45,000 square feet of ISO 5, 6, 7  
+(class 100, 1,000, 10,000) cleanroom.
+Open access, with shared toolsets and 
+spaces available to qualified researchers 
+from across MIT, as well as external users 
+from industry, academia, and government.
+A resource for the region and the nation  
+as the core facility for the Northeast  
+Microelectronics Coalition Hub (NEMC).
+A nexus for cross-disciplinary problem  
+solving, serving more than 250 MIT PI  
+laboratories drawn from nearly 50 MIT  
+departments, labs, and centers.
+A hub offering seminars, seed grants,  
+exhibitions, conferences, startup support,  
+and other programs that connect inside 
+and outside of MIT.
+Associate Director for Fab.nano Jorg Scholvin explains the 
+PicoTrack, a fully automated coat-and-develop track system 
+for spin coating, spray developing, and puddle developing of 
+6-inch and 8-inch wafers, to a group of MIT undergraduates.
+3
+
+
+--- PDF第4页 ---
+5
+4
+3
+2
+G
+B
+N
+S
+CHARLES RIVER
+15 MINUTE WALK
+10 MINUTE WALK
+5 MINUTE WALK
+MIT.nano
+MIT.NANO IS DESIGNED—AND 
+ POSITIONED—FOR IMPACT
+INNOVATION RADIATES 
+ FROM MIT OUT
+Hundreds of companies and startups 
+are based within minutes of MIT  
+and MIT.nano, forming “the most  
+innovative square mile on the planet.”
+MIT Buildings Energy
+Venture Capital
+Bio/Pharma Tech/Data
+We are LEED Platinum
+Our commitment to sustainability 
+has earned the U.S. Green Building 
+Council’s highest designation for a 
+building’s environmental attributes.
+The advanced facilities of the Lisa T. Su Building extend over five floors, built 
+from the ground up to support discovery and invention. And the building 
+itself is situated at the center of a remarkable hub for innovation  —  a t hriving 
+area of life science, high tech, and clean energy companies; accelerators, 
+incubators, and venture firms; startups and global leaders, all anchored on 
+and around the MIT campus. 
+4 · MIT.nano
+
+
+--- PDF第5页 ---
+5
+4
+3
+2
+G
+B
+N
+S
+CHARLES RIVER
+15 MINUTE WALK
+10 MINUTE WALK
+5 MINUTE WALK
+MIT.nano
+PROTOTYPING
+A unique set of interconnecting  
+labs —  t he first of its kind at MIT  —   
+with capabilities for fabrication, 
+additive manufacturing and  
+3D printing, prototyping,  
+and packaging.
+IMMERSION LAB
+An environment to connect the 
+physical to the digital  —  v isualizing 
+data, prototyping advanced  
+tools for augmented and virtual 
+reality (AR/VR), and developing 
+software and hardware concepts 
+for immersive experiences.
+FABRICATION
+Two levels over four floors 
+comprising more than 45,000 
+square feet of ISO 5, 6, 7 (class 
+100, 1,000, 10,000) cleanroom 
+with capabilities spanning 
+lithography, etching, deposition, 
+diffusion, and wet processing.
+CHARACTERIZATION
+11,000 square feet for metrology 
+and characterization including  
+12 sophisticated suites for  
+nanoscale observation with low  
+vibration and minimal electro- 
+magnetic interference.
+5
+
+
+--- PDF第6页 ---
+The heart of MIT.nano is approximately 50,000 square feet  
+of ISO 5, 6, 7 (class 100, 1,000, 10,000) cleanroom for the  
+design, fabrication, and analysis of micro and nanoscale  
+structures and devices.
+This substantial area currently supports more than 1,500  
+qualified researchers annually  —  w ith room to grow. The size,  
+sophistication, and sensitivity of the labs enable us to incorporate  
+a broad and expanding range of tools for additive, subtractive, 
+and patterning processes; thermal processes; metrology; and 
+packaging and assembly. 
+Focus facilities  —  s uch as nanomaterials, thin-film processing,  
+and microfluidic assembly and testing  —  s upport critical research 
+thrusts. The Tecnológico de Monterrey Prototyping Space is a 
+specialized extension of the cleanroom with multiple bays for 
+tools that enable researchers to translate their insights and  
+innovations into devices, products, and technologies that can  
+be taken out into the world. 
+Since the Lisa T. Su Building opened its doors in 2018,  
+MIT.nano has installed more than 200 tools and instruments.  
+Even with this substantial toolset, the facility is at just three-  
+quarters of capacity. MIT.nano is currently engaging the MIT  
+community, our industry collaborators, and other partners  
+to envision how to augment our capabilities to support novel 
+applications and new research directions. 
+FABRICATION
+MIT.nano’s fabrication facility supports 
+a wide variety of experimental processes 
+with toolsets that accommodate sample 
+sizes ranging from small chips and  
+pieces up to 200mm wafers. Here, a  
+researcher loads a 200mm wafer into one 
+of two Plasmatherm Reactive Ion Etchers 
+(RIE) installed in the facility.
+6 · MIT.nano
+
+
+--- PDF第7页 ---
+Our tools support a wide spectrum of  
+nanofabrication processes including:
+LITHOGRAPHY
+ — Two electron-beam lithography tools
+ — Four direct-write maskless aligners
+ — Automated wafer-coater and developer
+ — Two two-photon 3D exposure systems
+DEPOSITION
+ — Multiple Atomic Layer Deposition (ALD) tools, 
+including plasma-ALD
+ — Thermal and electron-beam evaporators
+ — Multiple sputter tools for thin-film deposition
+ — Four Plasma Enhanced Chemical Vapor  
+Deposition (PECVD) tools
+DRY ETCHING
+ — Multiple Reactive Ion Etchers (RIE)
+ — Multiple Inductively Coupled Plasma  
+etchers (ICP) including Deep Reactive Ion 
+Etching (DRIE)
+ — Six plasma ashers, including automated wafer 
+and barrel ashers
+DIFFUSION
+ — Four Rapid Thermal Processing (RTP) tools
+ — Oxidation/anneal furnace
+ — Three LPCVD furnaces for doped/undoped Si 
+and nitride
+WET PROCESSING
+ — Wet benches for corrosive cleaning and etch
+ — Hoods for general corrosive processing
+ — Hoods for solvent and lithography processing
+ — Soft lithography suite for microfluidic devices
+METROLOGY
+ — Thin-film measurement (spectroscopic  
+ellipsometry and reflectrometry)
+ — Full-wafer Atomic Force Microscope (AFM)
+ — Full-wafer Scanning Electron Microscope (SEM)
+7
+
+--- PDF第8页 ---
+Individual moving atoms imaged  
+using the Thermo Fisher Scientific  
+Titan Themis Z G3 aberration-corrected  
+scanning transmission electron  
+microscope in MIT.nano’s  
+characterization facility.
+To see and measure at the nanoscale, you need ultra-stable  
+and ultra-quiet conditions, with extremely low vibration and  
+electromagnetic interference (EMI). MIT.nano’s 11,000-square-
+foot characterization space was built with these critical factors  
+in mind. Our 12 imaging suites are rated Vibration Criteria  
+E & G. Each level is challenging to achieve; a VC-G level of  
+quiet is unparalleled in any other U.S. academic institution.  
+The result has been exceptional and even record-setting  
+performance across a variety of our instruments.
+MIT.nano’s characterization suites house an array of highly  
+sensitive microscopes and other instrumentation. Our state-
+of-the-art tools support dimensional science of surfaces and 
+interfaces, advanced imaging spectroscopy (ambient, Cryo, and 
+in-situ), and nanoscale analysis. Like the rest of MIT.nano, the user 
+base is drawn from a broad set of interests. The facility now ad -
+vances the investigations of hundreds of researchers from more 
+than a dozen academic departments plus users from industry, 
+other institutions, and startups.
+CHARACTERIZATION
+8 · MIT.nano
+
+
+--- PDF第9页 ---
+Our facility supports a broad range of  
+characterization, metrology, and analysis  
+instrumentation, including:
+SCANNING PROBE MICROSCOPY
+ — Atomic force microscopy
+ — Kelvin force probe microscopy
+ — Magnetic force microscopy
+ — Piezo force microscopy
+ELECTRON MICROSCOPY
+ — Focused ion beam scanning electron microscopy
+ — Scanning electron microscopy
+ — Scanning transmission electron microscopy
+X-RAY DIFFRACTION AND IMAGING
+ — Grazing-incidence
+ — High-resolution X-ray diffraction
+ — Small- and wide-angle X-ray scattering
+ — Thin film, single crystal and powder X-ray 
+diffraction
+ — X-ray reflectivity
+ — X-ray tomography
+ANALYSIS AND SPECTROSCOPY
+ — Energy dispersive spectroscopy
+ — Hyperspectral imaging
+ — Surface sensitive elemental and  
+chemical analysis
+ — Transmission, reflection or attenuated total 
+reflection measurements
+ — Vibrational spectroscopy
+CRYOGENIC ELECTRON MICROSCOPY
+ — Cryogenic focused ion beam scanning  
+electron microscopy
+ — High-throughput cryogenic transmission  
+electron microscopy
+ — High-resolution structure visualization and 
+electron tomography
+ — Single-particle cryo-EM imaging
+We have ample sample preparation as well as  
+in-situ characterization capabilities including,  
+nanoscale mechanical testing, environmental  
+measurement and imaging setups, and  
+temperature controlled characterization.
+When researchers come to MIT.nano, 
+they are supported by experienced 
+technical staff who help users  
+gain the closest, clearest possible 
+view of their work.
+9
+
+--- PDF第10页 ---
+In this two-story, 800-square-foot cube, researchers are connecting 
+the physical and the digital: visualizing and manipulating large data 
+sets, prototyping advanced tools for AR/VR/XR, and developing 
+software and hardware paradigms.
+The MIT.nano Immersion Lab specializes in obtaining high-precision, 
+real-time data. Custom software and analyses augment an open-
+source code base for educators and researchers. Our tools can be 
+used across a wide range of application areas, from scientific data 
+visualizations and industrial simulations to innovative gaming  
+paradigms and creative artistic expression.
+The lab not only contains an array of individual equipment and 
+platforms, but is also, itself, an instrument. Embedded systems  
+including sensors, cameras, and other tracking technologies  
+enable room-scale monitoring of people and objects. A major 
+focus of the lab is to support data exploration, allowing users to 
+analyze their research at the human scale with large, multidimen -
+sional views, enabling visual, haptic, and aural representations.
+The Immersion Lab’s purpose is to move beyond hype and deliver 
+practical applications of these promising technologies. The result 
+is an intriguing crossroads for disciplines and industries that do not 
+typically share the same space —  g aming, prototyping sensors and 
+hardware, biofeedback for athletics, new modes of teaching and 
+learning, technology training simulations, physiological measure -
+ment, data visualization for scientific research, dance and musical 
+performance, and medical studies and health analysis.
+THE  
+IMMERSION  
+LAB
+Motion capture and wireless physiolog -
+ical sensors are helping researchers 
+explore how biomechanical feedback and 
+interactive visualization tools could 
+change the future of sports.
+10 · MIT.nano
+
+
+--- PDF第11页 ---
+MAJOR THEMES
+The Immersion Lab enables / empowers  
+students, artists, and investigators in the  
+following thematic areas:
+ — Biomechanics and physiology
+ — Data visualizations and simulations
+ — Human in the loop
+ — Multi-faceted research
+ — Performance and the arts
+CAPABILITIES
+If a topic can be imagined, the Immersion Lab can 
+help envision it in virtual reality, mixed reality, and 
+beyond. Our capabilities include:
+Motion Capture
+ — Embedded 30-camera OptiTrack system with 
+infrared and visible color imaging capabilities
+ — Removable accelerometer-embedded  
+wooden floor
+Physiological Monitoring  
+(In partnership with the MIT Center for Clinical  
+and Translational Research)
+ — Delsys Trigno wireless sensor system
+ — Telemed ultrasound imaging
+ — VO2 Master breath analyzer, core temperature 
+monitors, heart rate sensors, EMG, IMUs
+Augmented / Virtual Reality
+ — Vario XR-3 mixed reality headsets
+ — HoloLens2 AR headsets
+ — HP Reverb G2 Omnicept VR headsets  
+with built-in physiological monitoring
+ — Additional headsets for education/gaming
+Digital Twins
+ — Lenscloud 3D scanner for human-scale objects
+ — Matterport Pro2 photogrammetric camera
+ — 360-degree cameras
+ High Performance Workstations
+ — Specialized for data science, digital content 
+creation, and/or real-time data acquisition
+Spatial Sound
+ — Dolby Atmos 7.1
+Augmented and virtual reality make it 
+possible for instructors to bring students 
+to environments that are hard to access, 
+either geographically or at scale.
+11
+
+--- PDF第12页 ---
+CONVENING AND 
+CONNECTING
+MIT.nano draws researchers, inventors, and educators  
+from departments and disciplines across the campus.  
+In conjunction with our technical facilities and research  
+spaces, MIT.nano offers programs to convene this diverse 
+community of interests, to spark interdisciplinary  
+interactions and collaborations, and to bolster MIT’s  
+ability to advance knowledge and innovation in service  
+to a better world.
+SYMPOSIA & CONFERENCES
+An MIT undergraduate presents her research, carried out 
+in MIT.nano’s facilities, at the Microsystems Annual 
+Research Conference.
+The Nano Summit: MIT.nano's annual flag -
+ship conference, showcasing groundbreaking 
+advancements in nanoscience and nanotech -
+nology. The Summit convenes researchers, 
+industry professionals, entrepreneurs, and  
+students interested in the latest develop -
+ments in cutting-edge research, emerging 
+technologies, and real-world applications.
+Microsystems and Quantum Annual 
+Research Conferences (MARC & QuARC):  
+Co-sponsored by the MIT Microsystems  
+Technology Laboratories (MTL) and MIT  
+Center for Quantum Engineering (QSEC)  
+respectively, these annual events bring 
+together MIT students, faculty, and members 
+of industry to explore 100+ current research 
+projects. Open only to member companies  
+of the three sponsors.
+PROGRAMS
+The Lab for Education & Application  
+Prototypes (LEAP):  Located in MIT.nano’s 
+fifth floor prototyping space, this facility  
+contains advanced tools for packaging  
+integrated photonics. LEAP is a collaboration 
+with the MIT AIM Photonics Academy, the  
+education and workforce development arm  
+of the AIM Photonics Institute, one of 14  
+Manufacturing USA institutes launched as  
+part of a federal initiative to revitalize  
+American manufacturing.
+The MIT-Monterrey Tec Program: A  
+collaboration with Tecnológico de Monterrey 
+of Mexico, one of Latin America’s largest  
+universities, this exchange program brings  
+Tec students and faculty to Cambridge for 
+fellowships, internships, and research stays  
+in MIT labs and centers.
+12 · MIT.nano
+
+
+--- PDF第13页 ---
+STUDIO.nano:  A platform for artistic  
+collaboration at the intersection of technology, 
+science, and art, rooted in the facilities and 
+toolsets of MIT.nano. STUDIO.nano organizes 
+exhibitions and symposia, and serves as a hub 
+for connections between artistic practice and  
+the frontiers of advanced materials, computing, 
+virtual reality, artificial intelligence, and  
+other disciplines.
+SEMINAR SERIES
+Mildred S. Dresselhaus Lecture:  
+An annual lecture honoring a luminary in 
+nanoscience and nanotechnology, named for 
+Institute Professor Mildred Dresselhaus.
+MIT.nano Seminar Series:  Talks  
+by prominent researchers from inside  
+and outside MIT and across the spectrum  
+of nanoscale science and engineering.
+START.NANO: MIT.NANO'S  
+HARD-TECH ACCELERATOR
+START.nano offers discounted access to MIT.nano’s 
+facilities and other benefits to promising hard-tech 
+ventures.
+The goal of START.nano is to minimize the cost of 
+launching a nascent idea, helping increase the survival 
+rate of these early-stage ventures and shortening the 
+time it takes for their innovations to reach the market.  
+Participating startups have access to tools and other 
+advantages that can help them create more well- 
+developed prototypes, obtain validated data, set them 
+on the path success, and position them for the next 
+stage of growth.
+The founders of Active Surfaces, a START.nano venture  
+developing ultra-lightweight photovoltaics, celebrate winning 
+the 2023 MIT $100K Entrepreneurship Competition.
+IMMERSED: A seminar series presented 
+by the MIT.nano Immersion Lab exploring 
+immersive technologies and new frontiers for 
+manipulating and understanding data.
+Nano Explorations: Presentations on current 
+research by MIT students and postdocs from 
+the MIT.nano user community.
+Tool Talks: Introductions to the latest tools, 
+instruments, and methods through talks and 
+demos presented by equipment providers and 
+technique experts.
+MIT.nano Director Vladimir Bulović, the Fariborz 
+Maseeh (1990) Professor of Emerging Technology,  
+introduces the Dresselhaus Lecture to an audience 
+of students, staff, and faculty at MIT.
+13
+
+
+--- PDF第14页 ---
+ 2D LIGHTWEIGHT  
+POLYMERS
+Michael Strano
+Chemical Engineering
+GAME-CHANGING RESEARCH, 
+WORLD-CHANGING IMPACT
+HYDROPHOBIC
+SURFACES
+Kripa Varanasi
+Mechanical Engineering
+TWISTED ANGLE
+GRAPHENE
+Pablo Jarillo-Herrero
+Physics
+COLLOIDAL
+NANOCRYSTALS
+Moungi Bawendi
+Chemistry
+HUMAN-MACHINE
+SYMBIOSIS
+Deblina Sarkar
+Media Arts & Sciences
+METALENS
+Juejun Hu
+Materials Science &  
+Engineering
+TRANSPARENT GRAPHENE
+ELECTRODES
+Tomás Palacios
+Electrical Engineering & 
+Computer Science
+NUCLEAR PORE
+COMPLEX
+Thomas Schwartz
+Biology
+NANOELECTRO-
+MECHANICAL SWITCHES
+Farnaz Niroui
+Electrical Engineering & 
+Computer Science
+BIO-INSPIRED
+MATERIALS
+Benedetto Marelli
+Civil & Environmental  
+Engineering
+NANOSCALE MATERIALS
+Frances Ross
+Materials Science &  
+Engineering
+DIAMOND PHOTONICS
+Dirk Englund
+Electrical Engineering & 
+Computer Science
+VR-ELECTROCARDIOGRAM
+Elazer Edelman
+Institute for Medical  
+Engineering & Science
+FERRIMAGNETIC
+MATERIALS
+Bilge Yildiz
+Nuclear Science &  
+Engineering
+NANO-ARCHITECTED
+MATERIALS
+Carlos Portela
+Mechanical Engineering
+THIN-FILM 
+PHOTOVOLTAICS
+Vladimir Bulović
+Electrical Engineering &  
+Computer Science
+14 · MIT.nano
+
+
+--- PDF第15页 ---
+THE MIT.NANO  
+CONSORTIUM
+The MIT.nano Consortium is our  
+platform for developing strategic  
+relationships with large organizations. 
+For our corporate collaborators, 
+joining the potent culture of inno -
+vation at MIT.nano energizes their 
+efforts and offers early insight into 
+the technological advances that will 
+help shape the world of tomorrow.
+For MIT, industry partnerships bring 
+us important intellectual problems, 
+help speed new technologies to 
+market, and focus our work for  
+lasting, practical impact.
+For member companies, the  
+MIT.nano Consortium offers:
+Awareness: Early insight into  
+ideas and innovations emerging 
+from MIT labs.
+Connection:  Guided relationships 
+with the MIT community.
+Talent: Recruitment from MIT’s  
+talented pool of students  
+and alumni.
+Collaboration:  Cooperative 
+engagement with MIT.nano and 
+campus researchers.
+Toolsets: Discounted access to 
+utilize MIT.nano’s facilities.
+Customization: Direct a portion of 
+your membership fee to the purpose 
+of your choice.
+MEMBERS:
+ — Analog Devices
+ — Applied Materials
+ — Edwards
+ — Fujikura
+ — IBM Research
+ — Lam Research
+ — Lockheed Martin
+ — NC
+ — NEC Corporation
+ — Shell
+ — Viavi Solutions
+MIT students fabricate a 200mm wafer with the logo  
+of the Northeast Microelectronics Coalition Hub 
+(NEMC). MIT.nano is the core facility for this CHIPS 
+Act funded regional network of 200+ companies, academic 
+institutions, startups, and research centers. 
+PARTNERING  
+WITH INDUSTRY
+MIT’s history of discovery and invention has taught us that a successful  
+innovation ecosystem generates an enthusiasm for opening doors. We under-
+stand that innovation flourishes when people and ideas can flow across, through, 
+and around organizations. And we believe that discovery, invention, and impact 
+are all dramatically enhanced through corporate partnership across sectors and 
+scales, from Fortune 500 companies to startups.
+A representative from Viavi Solutions 
+describes the company to MIT students 
+at the MIT Deep Tech Career Fair, an 
+annual recruitment event open only to 
+MIT.nano Consortium members.
+TO LEARN ABOUT  
+MEMBERSHIP, CONTACT:
+Kelly Gavin 
+MIT.nano Consortium Manager  
+kellygav@mit.edu
+15
+
+--- PDF第16页 ---
+READY TO HELP BUILD A BETTER WORLD? 
+CONNECT WITH US.  
+Lisa T. Su Building
+Massachusetts Institute of Technology
+60 Vassar Street, Building 12
+Cambridge, MA 02139
+Email: mitnano@mit.edu
+Web: mitnano.mit.edu
+Phone: (001) 617-253-3951
+A researcher uses the Semilab  
+SE-2000 Spectroscopic Ellipsometer  
+at MIT.nano to characterize the  
+properties of a thin-film of  
+material deposited in the fab.
+DESIGN Opus Design | December 2024

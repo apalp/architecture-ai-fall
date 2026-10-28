@@ -1,0 +1,36 @@
+--- PDF第1页 ---
+Bush Room, 10-105
+Existing Furniture: 
+Seven* : 8’ tables
+Five*: 5’ tables
+Two*: 4' tables
+10 chairs without arms
+70 chairs with arms
+ Vacuum cleaner (stored in kitchen)
+*tables beyond default setup require a work order
+Size of room:  48’ x 43’
+(column in the middle limits overall capacity)
+85 people for standing reception
+80 chairs will /f_it for theatre or lecture style
+Six: 72” round tables* will /f_it with eight chairs per table
+Eight: 60” round tables* will /f_it with six chairs per table
+*round tables need to be ordered from external vendor
+8’ 8’ 8’
+8’ 8’
+8’
+5’
+5’
+Column
+KITCHEN
+No Stove
+Mini fridge
+ONLY
+Projection Screen
+INFINITE CORRIDOR
+Windows
+AV
+Emergency Exit Doors
+Coat Closets
+Entrance from 
+Lobby 10
+Chairs without arms

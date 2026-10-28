@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "candidate_count": 105,
+  "split_existing_edge_cases": 8,
+  "add_two_edges_cases": 97,
+  "baseline_three_deterministic_metrics_match_formal_output": true,
+  "exported_topology_files_checked": 12,
+  "top10_PNG_SVG_JSON_complete": true,
+  "top10_MC_and_exact_order_agree": true,
+  "propagation_verification": {
+    "all_105_graph_edge_counts_checked": true,
+    "exported_graph_adjacency_and_old_nodes_checked": true,
+    "exact_live_edge_probability_mass_checked": true,
+    "max_abs_MC_new_reach_error": 0.003970731504098046
+  }
+}
